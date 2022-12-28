@@ -16,5 +16,7 @@ I have learnt 10 sprints during 4 months program.
 - Statistics
 - Intro to 'Classical' Machine Learning
 - Intro to Python
+  - Pao Ying Chub: https://datalore.jetbrains.com/view/notebook/C8RIOCv1m3fFVOlWqF5pbO
+  - ATM: https://datalore.jetbrains.com/view/notebook/fAHvPfZNpAwoEAO9M4TjjE
 - Essential Python for Data Analyst
 - Dashboard
