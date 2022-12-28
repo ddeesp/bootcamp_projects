@@ -1,6 +1,6 @@
 # Bootcamp Projects
 
-Data science bootcamp with 'adToy'
+Data science bootcamp with 'DataRockies'
 
 I have learnt 10 sprints during 4 months program.
 
