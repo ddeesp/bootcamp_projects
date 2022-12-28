@@ -11,6 +11,7 @@ I have learnt 10 sprints during 4 months program.
   - Chatbot Pizza: https://replit.com/@sasipimpap/Batch06ChatbotPizza
   - Pao Ying Chub: https://replit.com/@sasipimpap/Batch06PaoYingChub
 - Data Transformation
+  - NYC Flights 2013 Analysis: https://datalore.jetbrains.com/view/notebook/da0Son3b6gzPhYETHmHeEy
 - Data Visualization
 - Statistics
 - Intro to 'Classical' Machine Learning
